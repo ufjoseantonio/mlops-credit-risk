@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Data
+data/
+*.csv
+*.parquet
+
+# Models
+models/
+*.pkl
+*.joblib
+
+# Logs
+logs/
+
+# Docker
+*.log
